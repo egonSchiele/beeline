@@ -7,6 +7,10 @@ The original plugin also uses readability to strip out content, but this extensi
 
 # Installation
 
+[On Chrome Webstore](https://chrome.google.com/webstore/detail/adkmhpjcegmgepfiggihdefofibbpmfk).
+
+Or follow these steps:
+
 1. download and unzip the repo (or just clone it) somewhere on your machine
 2. In Chrome open Settings -> Extensions
 3. Check the checkbox labeled "Developer mode" at the top of the menu
